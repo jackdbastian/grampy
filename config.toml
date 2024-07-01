@@ -1,6 +1,7 @@
 baseURL      = "https://www.example.com/"
 title        = "Phil Bastian"
 disableKinds = ["section", "taxonomy", "term"]
+timeout = 100
 
 [params]
     # Set to enable Plausible Analytics.
